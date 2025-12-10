@@ -1,6 +1,6 @@
 # Estudos em JavaScript
 
-Nesse **README** organizarei os conhecimentos que venho adquirindo para que depois eu possa consulta-los para revisar os conteúdos e não esquecer detalhes importantes
+Nesse **README** organizarei os conhecimentos que venho adquirindo no curso do professor Otavio Miranda para que depois eu possa consulta-los para revisar os conteúdos e não esquecer detalhes importantes
 
 ## Variáveis com let (Aula 6)
 
