@@ -28,3 +28,11 @@ Nesse **README** organizarei os conhecimentos que venho adquirindo no curso do p
 * Não utilize VAR, utilize CONST.
 
 Um comando importante aprendido é o **typeof**, ele nos demonstra qual é o tipo de uma determinada variável/constantes.
+
+## Operadores aritméticos, de atribuição e incremento (Aula 11)
+
+Operadores aritméticos: + (Soma ou concatenação), - (Subtração), * (Multiplicação), / (Divisão), ** (Potenciação), % (Resto da Divisão)
+
+Operadores de incremento: ++ (Incremento), -- (Decremento). Muito usado em contadores (Ex.: contador++)
+
+Operadores de atribuição: += (Soma e atribui), -= (Subtrai e atribui), *= (Multiplica e atribui), /= (Divide e atribui), **= (Potencia e atribui)
