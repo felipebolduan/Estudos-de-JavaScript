@@ -35,4 +35,10 @@ Operadores aritméticos: + (Soma ou concatenação), - (Subtração), * (Multipl
 
 Operadores de incremento: ++ (Incremento), -- (Decremento). Muito usado em contadores (Ex.: contador++)
 
-Operadores de atribuição: += (Soma e atribui), -= (Subtrai e atribui), *= (Multiplica e atribui), /= (Divide e atribui), **= (Potencia e atribui)
+Operadores de atribuição: += (Soma e atribui), -= (Subtrai e atribui), *= (Multiplica e atribui), /= (Divide e atribui), **= (Potencia e atribui).
+
+## Comandos de Navegadores
+
+* `window.alert` é usado para exibir um alerta no navegador;
+* `window.confirm` é utilizado para fazer uma confirmação (Ex.: Você deseja realmente excluir?) e sempre retornará um valor booleano;
+* `window.prompt` traz um campo para que possa ser preenchido (Ex.: Digite a senha) e retorna um valor em String. 
