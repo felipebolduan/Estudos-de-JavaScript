@@ -42,3 +42,11 @@ Operadores de atribuição: += (Soma e atribui), -= (Subtrai e atribui), *= (Mul
 * `window.alert` é usado para exibir um alerta no navegador;
 * `window.confirm` é utilizado para fazer uma confirmação (Ex.: Você deseja realmente excluir?) e sempre retornará um valor booleano;
 * `window.prompt` traz um campo para que possa ser preenchido (Ex.: Digite a senha) e retorna um valor em String. 
+
+## Aulas 15 e 16
+
+Na aulas 15 e 16 tive uma ideia melhor sobre como funcionam as Strings e também de como encontrar valores e informações nela. Por exemplo conseguimos usar a função `index.of` para encontrar o indice de uma determinada função, a `toUpperCase` e `toLowerCase` para deixar uma string ou toda maiuscula ou toda minuscula.
+
+## Aula 17
+
+Nessa aula exploramos um pouco mais a parte de numbers do JS, onde pudemos perceber que, em situações de números decimais não temos uma precisão absoluta, vimos também como fixar um número com determinadas casas decimais especificas e também como converter um número em Binário, Hexadecimal e afins.
