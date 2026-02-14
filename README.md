@@ -43,10 +43,18 @@ Operadores de atribuição: += (Soma e atribui), -= (Subtrai e atribui), *= (Mul
 * `window.confirm` é utilizado para fazer uma confirmação (Ex.: Você deseja realmente excluir?) e sempre retornará um valor booleano;
 * `window.prompt` traz um campo para que possa ser preenchido (Ex.: Digite a senha) e retorna um valor em String. 
 
-## Aulas 15 e 16
+## Strings Básico (Aulas 15 e 16)
 
 Na aulas 15 e 16 tive uma ideia melhor sobre como funcionam as Strings e também de como encontrar valores e informações nela. Por exemplo conseguimos usar a função `index.of` para encontrar o indice de uma determinada função, a `toUpperCase` e `toLowerCase` para deixar uma string ou toda maiuscula ou toda minuscula.
 
-## Aula 17
+## Numbers Básico (Aula 17)
 
 Nessa aula exploramos um pouco mais a parte de numbers do JS, onde pudemos perceber que, em situações de números decimais não temos uma precisão absoluta, vimos também como fixar um número com determinadas casas decimais especificas e também como converter um número em Binário, Hexadecimal e afins.
+
+## Math e Exercicios (Aula 18 e 19)
+
+Nessas duas aulas vimos um pouco sobre a função Math e suas utilidades, básicamente essa função nos permite manipular questões matemáticas como arredondamento (Utilizando o `Math.floor()` para arredondar para baixo e o `Math.ceil()` para arredondar para cima), geração de número randomico, definição de uso de casas decimais e afins.
+
+## Arrays Básico (Aula 20)
+
+Nessa aula, que foi uma aula bem interessante, aprendi um pouco mais sobre o uso de arrays (listas), onde pude ver que o JS não limita um array a somente um tipo (Porém, por boas práticas, o ideal é limitarmos) e podemos fazer diversas coisas no array, como adicionar itens no inicio e final do array, consultar itens, remover itens do inicio do array e do final, calcular o seu tamanho e entre outros (Creio que esse conhecimento me será muito valioso em projetos futuros).
