@@ -58,3 +58,7 @@ Nessas duas aulas vimos um pouco sobre a função Math e suas utilidades, básic
 ## Arrays Básico (Aula 20)
 
 Nessa aula, que foi uma aula bem interessante, aprendi um pouco mais sobre o uso de arrays (listas), onde pude ver que o JS não limita um array a somente um tipo (Porém, por boas práticas, o ideal é limitarmos) e podemos fazer diversas coisas no array, como adicionar itens no inicio e final do array, consultar itens, remover itens do inicio do array e do final, calcular o seu tamanho e entre outros (Creio que esse conhecimento me será muito valioso em projetos futuros).
+
+## Introdução a Funções (Aula 21)
+
+Aqui aprendemos um básico sobre funções, no qual aprendi que uma função tem como objetivo criar um bloco de código que executa alguma ação. Essa função é protegida, ou seja, não consigo acessar o que está dentro dela por fora da função (Entendi também que posso reutilizar variáveis que eu crio dentro da função em outros trechos do código e em outras funções). Realmente uma das aulas mais interessantes até o momento.
