@@ -62,3 +62,7 @@ Nessa aula, que foi uma aula bem interessante, aprendi um pouco mais sobre o uso
 ## Introdução a Funções (Aula 21)
 
 Aqui aprendemos um básico sobre funções, no qual aprendi que uma função tem como objetivo criar um bloco de código que executa alguma ação. Essa função é protegida, ou seja, não consigo acessar o que está dentro dela por fora da função (Entendi também que posso reutilizar variáveis que eu crio dentro da função em outros trechos do código e em outras funções). Realmente uma das aulas mais interessantes até o momento.
+
+## Introdução a Objetos (Aula 22)
+
+Vimos nessa aula um pouco sobre objetos, onde entendi que quando tenho um padrão de coisas que quero declarar ou que preciso armazenar posso criar um objeto com os parametros necessários e então chamar esse objeto depois para inputar ou consultar valores, além disso vimos um pouco de funções dentro de objetos e como elas podem ser poderosas (Estou bem animado para quando chegarmos a parte de aprofundarmos esse conhecimento).
